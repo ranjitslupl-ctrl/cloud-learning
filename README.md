@@ -15,4 +15,4 @@
 - Will add more projects soon
 
 ## Contact
-- GitHub: @तुम्हारा-username
+- GitHub: @dev
